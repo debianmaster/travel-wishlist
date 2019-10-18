@@ -1,19 +1,19 @@
 
-- [x]Melaka
-- [] Ipoh
-- [x]Kuala Lumpur
-- []Cameron Highlands
-- []Rawa Island
-- []Tioman Island
-- []Batu Batu, 
-- []Kuching
-- []Kota Kinabalu (Gaya Island) 
-- []Bangkok
-- []Krabi
-- []Koh Samui 
-- [x]Phnom Penh (Cambodia), 
-- [x]Ho Chi Minh City 
-- []Yangon (Myanmar)
-- []Vientiane or Luang Prabang 
-- []Lombok (Indonesia)
-- [](Nikoi, Telunas, Pangkil, Joyo)
+- [x] Melaka
+- [ ] Ipoh
+- [x] Kuala Lumpur
+- [ ] Cameron Highlands
+- [ ] Rawa Island
+- [ ] Tioman Island
+- [ ] Batu Batu, 
+- [ ] Kuching
+- [ ] Kota Kinabalu (Gaya Island) 
+- [ ] Bangkok
+- [ ] Krabi
+- [ ] Koh Samui 
+- [x] Phnom Penh (Cambodia), 
+- [x] Ho Chi Minh City 
+- [ ] Yangon (Myanmar)
+- [ ] Vientiane or Luang Prabang 
+- [ ] Lombok (Indonesia)
+- [ ] (Nikoi, Telunas, Pangkil, Joyo)
